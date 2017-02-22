@@ -2,8 +2,24 @@
 
 www.wordfrequency.info/free.asp
 
-####Word scraping dictionary websites in Python with Scrapy.
+###Word scraping dictionary websites in Python with Scrapy.
 
 https://scrapy.org
 
-###Filtering
+###NLP Frameworks
+
+####Stanford CoreNLP
+
+stanfordnlp.github.io/CoreNLP
+
+####spaCy 
+
+https://spacy.io
+
+####NLTK - Natural Language Toolkit
+
+www.nltk.org
+
+####MBSP from Computational Linguistics & Psycholinguistics Research Center
+
+www.clips.ua.ac.be/pages/MBSP
